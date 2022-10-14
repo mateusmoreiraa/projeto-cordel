@@ -89,6 +89,10 @@ section#img02 {
     background-image:url('imagens/background002.jpg');
     background-position: right center;
 }
+section#img03 {
+    background-image:url('imagens/background003.jpg');
+    background-position: right center;
+}
 
 
 footer {
